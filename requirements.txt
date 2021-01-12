@@ -3,7 +3,6 @@ dash-core-components==1.14.1
 dash-html-components==1.1.1
 dash-renderer==1.8.3
 dash-table==4.11.1
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
 numpy==1.19.1
-pandas @ file:///C:/ci/pandas_1592833613419/work
+pandas==1.0.5
 plotly==4.9.0
